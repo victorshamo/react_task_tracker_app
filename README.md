@@ -2,12 +2,21 @@
 
 React 'Task Tracker App' project where I used components, JSX, props, state, hooks, event, etc.
 
+Thanks Brad Traversy for the tutorial.
+
 ## Usage
-'# Install Dependencies:'
+
+* Install Dependencies:
+```
 npm install
+```
 
-'# Run App:'
+* Run App:
+```
 npm start
+```
 
-'#Build App:'
+* Build App:
+```
 npm run build
+```
